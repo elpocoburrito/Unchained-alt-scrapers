@@ -1,0 +1,18 @@
+{
+    "repository_version": 0.1,
+    "name": "Unchained Alt Scrapers",
+    "description": "Unnoficial scrapers repo",
+    "author": "ElPocoBurrito (rockyo5)",
+    "plugins": [
+        {
+            "id": "sukebei",
+            "versions": [
+                {
+                    "plugin": 0.1,
+                    "engine": 2.0,
+                    "link": "https://gitlab.com/LivingWithHippos/unchained-plugins/-/raw/main/repository/plugins/etree/etree_v2.0.unchained"
+                }
+            ]
+        }
+    ]
+}
