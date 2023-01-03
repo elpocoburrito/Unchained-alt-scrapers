@@ -13,10 +13,9 @@
     "games (art)": "1_3",
     "manga (art)": "1_4",
     "pictures (art)": "1_5",
-
     "-- real life --": "2_0",
     "pictures (real)": "2_1",
-    "videos (real)": "2_2",
+    "videos (real)": "2_2"
   },
   "search": {
     "category": "${url}/?q=${query}&c=${category}&p=${page}",
