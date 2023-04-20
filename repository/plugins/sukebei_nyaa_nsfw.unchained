@@ -7,15 +7,15 @@
   "author": "morpheasgr, LivingWithHippos, Rockbyo5",
   "supported_categories": {
     "all": "0_0",
-    "-- art --": "1_0",
-    "anime (art)": "1_1",
-    "doujinshi (art)": "1_2",
-    "games (art)": "1_3",
-    "manga (art)": "1_4",
-    "pictures (art)": "1_5",
-    "-- real life --": "2_0",
-    "pictures (real)": "2_1",
-    "videos (real)": "2_2"
+    "art": "1_0",
+    "anime": "1_1",
+    "doujinshi": "1_2",
+    "games": "1_3",
+    "manga": "1_4",
+    "pictures": "1_5",
+    "videos": "2_0",
+    "pictures": "2_1",
+    "videos": "2_2"
   },
   "search": {
     "category": "${url}/?q=${query}&c=${category}&p=${page}",
