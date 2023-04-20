@@ -8,7 +8,7 @@
             "id": "sukebei",
             "versions": [
                 {
-                    "plugin": 0.1,
+                    "plugin": 0.3,
                     "engine": 2.0,
                     "link": "https://raw.githubusercontent.com/rockbyo5/Unchained-alt-scrapers/main/repository/plugins/sukebei_nyaa_nsfw.unchained"
                 }
